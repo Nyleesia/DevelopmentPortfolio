@@ -1,0 +1,11 @@
+.workContainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-self: center;
+    max-width: 760px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

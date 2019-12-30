@@ -1,0 +1,17 @@
+.LogoContainer{
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.cardLogoCol{
+    width: 40%;
+}
+
+.fbLogo{
+    width: 100%;
+}
+
+.liLogo{
+    width: 100%;
+}

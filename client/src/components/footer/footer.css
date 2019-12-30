@@ -1,0 +1,20 @@
+.fatFooter{
+    background: linear-gradient(to bottom,  rgba(30,87,153,1) 0%,rgba(32,124,202,1) 51%,rgba(125,185,232,1) 100%);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: linear-gradient(to bottom, rgb(176, 200, 231) 0%,rgb(5, 1, 51) 51%,rgb(9, 2, 51) 51%,rgb(179, 174, 201) 89%);
+    -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, .5), 0 2px 3px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 0 2px 10px rgba(0, 0, 0, .5), 0 2px 3px rgba(0, 0, 0, .5);
+    -o-box-shadow: 0 2px 10px rgba(0, 0, 0, .5), 0 2px 3px rgba(0, 0, 0, .5);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, .5), 0 2px 3px rgba(0, 0, 0, .5);
+    border: 1px solid rgba(11, 4, 80, 0.151);
+}
+
+.footerInfo{
+    display: inline;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: 20%;
+}

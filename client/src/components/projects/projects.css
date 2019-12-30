@@ -1,0 +1,9 @@
+.projectsContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-self: center;
+    max-width: 760px;
+    margin: auto;
+
+}
